@@ -55,7 +55,7 @@ Exporting MPEG_* extension can be enabled or disabled from the export panel dire
 
 ![export panel options](/doc/img/export-panel-options.jpg)
 
-Comprehensive tutoriala to add MPEG_* extensions are available at: [https://5g-mag.github.io/Getting-Started/pages/xr-media-integration-in-5g/tutorials/creating_test_assets.html](https://5g-mag.github.io/Getting-Started/pages/xr-media-integration-in-5g/tutorials/creating_test_assets.html)
+Comprehensive tutorials to add MPEG_* extensions are available at: [https://5g-mag.github.io/Getting-Started/pages/xr-media-integration-in-5g/tutorials/creating_test_assets.html](https://5g-mag.github.io/Getting-Started/pages/xr-media-integration-in-5g/tutorials/creating_test_assets.html)
 
 ## Development
 
